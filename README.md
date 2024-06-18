@@ -20,77 +20,55 @@ The dataset provided consists of a list of all the TV shows/movies available on 
 - Description: The summary description
 
 **Overall Observations:**
-Netflix has 69.6% (6131) Movies and 30.4% (2676) TV Shows. There are more movies on Netflix compared to TV Shows.
 
-United Sates has the highest number of contents. India has the 2nd and United Kingdom has 3rd highest number contents irrespective of the content type.
-
-The difference in content count between United States and India is 4 times.
-
-We can say that United States has major amount of content in both Movies & TV Shows compared to any other country.
-
-India has 2nd highest movie content while the TV Show content is very negligible comparatively.
-
-United Kingdom has 2nd highest TV show content and 3rd highest Movie content
-
-Top 3 type of rating globally in Movies & TV Shows are TV-MA, TV-14, TV-PG.
-
-In Movies, International Movies, Dramas & Comedies are the top 3 genres globally.
-
-In TV Shows, International TV Shows, TV Dramas & TV Comedies are the top 3 genres globally.
-
-We can conclude that International content, Dramas & comedies type of genre are the top genre globally across content type.
-
-We can see that in top most country United States, most famous genre is Dramas though the highest count of genre globally is International Movies, while in India it is International Movies.
-
-In majority of the top 10 countries most famous genre is International Movies.
-
-British TV Shows is most famous in United Kingdom, which is the top 3rd country.
-
-Interesting to see comedies is the most famous genre in Canada.
-
-Japan & South Korea has International TV Shows as the most famous genre.
-
-Majority of the content is added to Netflix in same year as its release.
-
-On an average it takes 4.64 years for a content to be added on Netflix
-
-We can see that release per year started increasing slightly from 2011.
-
-Since 2013, the number of releases per year started increasing at higher rate in both TV Shows & Movies.
-
-In the year 2019, highest number of Movies & TV Shows were released on Netflix. Count of movies increased exponentially compared to TV Shows. There after, number of movies started to decline drastically for the next 2 consecutive years
-
-In the year 2020, number of TV Shows had no much difference. After 2020, it started to decline.
-
-Netflix has been adding content every month consistently with very less percentage difference.
-
-Highest number of movies were released in the month of July with 9.2%.
-
-While April had 9% and December, January, October had 8.9% of movie releases resepctively.
-
-February had least percentage of releases for both Movies & TV Shows.
-
-December, July & September had 9.9%, 9.8% & 9.4% of TV Show releases respectively. We can conclude that July & December (Holiday season) are the best time to release any type of content on Netflix. Along with that April is also the best month to release Movies.
-
-It is evident that Friday is the best day of the week to release both type of content with more than 1/4th of the content.
-
-For movies, saturday is the least preferred day to release.
-
-For tv shows, sunday is the least preferred day to release.
-
-Anupam Kher, Akshay KUmar, Naseeruddin Shah are the most famous movie cast.
-
-Young, Jin, Takahiro Sakurai are the most famous TV Show cast
-
-Most famous Movie Directors are Rajiv Chilaka, Raul Campos, Jan Suter. globally
-
-Most famous TV Show Directors are Ken Burns, Alastair Fothergill.
+- Netflix has 69.6% (6131) Movies and 30.4% (2676) TV Shows. There are more movies on Netflix compared to TV Shows.
+- United Sates has the highest number of contents. India has the 2nd and United Kingdom has 3rd highest number contents irrespective of the content type.
+- The difference in content count between United States and India is 4 times.
+- We can say that United States has major amount of content in both Movies & TV Shows compared to any other country.
+- India has 2nd highest movie content while the TV Show content is very negligible comparatively.
+- United Kingdom has 2nd highest TV show content and 3rd highest Movie content
+- Top 3 type of rating globally in Movies & TV Shows are TV-MA, TV-14, TV-PG.
+- In Movies, International Movies, Dramas & Comedies are the top 3 genres globally.
+- In TV Shows, International TV Shows, TV Dramas & TV Comedies are the top 3 genres globally.
+- We can conclude that International content, Dramas & comedies type of genre are the top genre globally across content type.
+- We can see that in top most country United States, most famous genre is Dramas though the highest count of genre globally is International Movies, while in India it is International Movies.
+- In the majority of the top 10 countries most famous genre is International Movies.
+- British TV Shows is most famous in United Kingdom, which is the top 3rd country.
+- Interesting to see comedies is the most famous genre in Canada.
+- Japan & South Korea has International TV Shows as the most famous genre.
+- Majority of the content is added to Netflix in same year as its release.
+- On an average it takes 4.64 years for a content to be added on Netflix
+- We can see that release per year started increasing slightly from 2011.
+- Since 2013, the number of releases per year started increasing at higher rate in both TV Shows & Movies.
+- In the year 2019, highest number of Movies & TV Shows were released on Netflix. Count of movies increased exponentially compared to TV Shows. There after, number of movies started to decline drastically for the next 2 consecutive years
+- In the year 2020, a number of TV Shows had not much difference. After 2020, it started to decline.
+- Netflix has been adding content every month consistently with a very small percentage difference.
+- The highest number of movies were released in the month of July with 9.2%.
+- While April had 9% and December, January, October had 8.9% of movie releases resepctively.
+- February had least percentage of releases for both Movies & TV Shows.
+- December, July & September had 9.9%, 9.8% & 9.4% of TV Show releases respectively. We can conclude that July & December (Holiday season) are the best time to release any type of content on Netflix. Along with that April is also the best month to release Movies.
+- It is evident that Friday is the best day of the week to release both type of content with more than 1/4th of the content.
+- For movies, saturday is the least preferred day to release.
+- For tv shows, sunday is the least preferred day to release.
+- Anupam Kher, Akshay KUmar, Naseeruddin Shah are the most famous movie cast.
+- Young, Jin, Takahiro Sakurai are the most famous TV Show cast
+The most famous Movie Directors are Rajiv Chilaka, Raul Campos, Jan Suter. globally
+- Most famous TV Show Directors are Ken Burns and Alastair Fothergill.
 
 **Recommendations**
 
-**Content Type Strategy:**
+1) The most popular Genres across the countries and in both TV Shows and Movies are Drama, Comedy and International TV Shows/Movies, so content aligning with that is recommended.
+2) Add TV Shows in July/August and Movies in the last week of the year/first month of the next year.
+3) For USA audience 80-120 mins is the recommended length for movies and Kids TV Shows are also popular along with the genres in first point, hence recommended.
+4) For UK audience, recommended length for movies is same as that of USA (80-120 mins)
+5) The target audience in USA and India is recommended to be 14+ and above ratings while for UK, its recommended to be completely Mature/R content.
+6) Add movies for Indian Audience, it has been declining since 2018.
+7) Anime Genre for Japan and Romantic Genre in TV Shows for South Korean audiences is recommended.
+8) While creating content, take into consideration the popular actors/directors for that country. Also take into account the director-actor combination which is highly recommended.
+
+**Content-Type Strategy:**
 Continue focusing on producing a diverse range of movies as they constitute a significant portion of the content (69.6%).
-While movies are dominant, explore opportunities to enhance and diversify the TV show catalog to attract a broader audience.
+While movies are dominant, explore opportunities to enhance and diversify the TV show catalogue to attract a broader audience.
 
 **Global Expansion:**
 Given the high content count in the United States for both Movies & TV Shows, continue investing in content for this region.
